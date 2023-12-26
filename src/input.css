@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.img-lg{
+    /* width: 20rem; */
+    height: 30rem;
+}
